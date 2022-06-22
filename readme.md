@@ -9,7 +9,7 @@ The Dentition-Starter website a hospital website. where you can book an online a
 
 ## Documentation
 
-The website is desgined and with simle HTML,CSS,JAVASCRIPT .It contains link of blog and docs of varioius programming language
+The website is desgined and with simle HTML,CSS,JAVASCRIPT .
 
 
 ## Screenshots
